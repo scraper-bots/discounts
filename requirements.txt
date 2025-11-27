@@ -1,0 +1,7 @@
+# Core scraping dependencies
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# Data analysis dependencies (optional, for analyze_example.py)
+pandas>=2.0.0
+matplotlib>=3.7.0
