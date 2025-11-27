@@ -1,0 +1,75 @@
+{
+  "discount_distribution": {
+    "median_discount": 50.05,
+    "mean_discount": 50.35921855555556,
+    "top_segment": "40-60%",
+    "top_segment_count": 51212,
+    "high_discount_products": 47779
+  },
+  "pricing_strategy": {
+    "total_revenue_loss": 11779776.689999998,
+    "avg_discount_amount": 130.88640766666663,
+    "highest_loss_category": "\u018ftirl\u0259r, \u0259tir d\u0259stl\u0259ri",
+    "highest_loss_amount": 1068177.35
+  },
+  "category_performance": {
+    "top_category": "\u018ftirl\u0259r, \u0259tir d\u0259stl\u0259ri",
+    "top_category_count": 14424,
+    "highest_discount_category": "\u015e\u00fc\u015f\u0259sil\u0259nl\u0259r, \u015f\u00fc\u015f\u0259t\u0259mizl\u0259yicil\u0259r",
+    "highest_avg_discount": 74.39512195121951
+  },
+  "seller_performance": {
+    "top_seller": "Bir Al\u0131\u015f",
+    "top_seller_products": 9391,
+    "avg_seller_rating": 93.86435555555556,
+    "high_quality_sellers": 898
+  },
+  "brand_opportunities": {
+    "top_brand": "Nezrin Atelier",
+    "top_brand_count": 1000,
+    "most_aggressive_brand": "Vionel",
+    "highest_avg_discount": 85.08201877934273
+  },
+  "customer_value": {
+    "products_with_installment": 89681,
+    "best_deals_count": 1623,
+    "avg_rating_rated_products": 4.735318823978618,
+    "best_deal_category": "Qulaql\u0131qlar v\u0259 qarniturlar"
+  },
+  "competitive_positioning": {
+    "market_concentration_hhi": 0.01580474839506173,
+    "top_seller_share": 10.434444444444445,
+    "unique_sellers": 1410,
+    "top_10_seller_share": 24.927777777777777
+  },
+  "revenue_opportunities": {
+    "top_opportunity_category": "\u018ftirl\u0259r, \u0259tir d\u0259stl\u0259ri",
+    "opportunity_score": 0.5851275840638737,
+    "growth_potential_sellers": 15
+  },
+  "market_trends": {
+    "black_friday_products": 68,
+    "bf_avg_discount": 45.97705882352941,
+    "dominant_segment": "Budget\n(0-50)",
+    "premium_products": 17684
+  },
+  "actionable_opportunities": {
+    "total_revenue_at_risk": 11779776.689999998,
+    "margin_recovery_potential": 60.49527993469933,
+    "high_value_products": 20,
+    "gap_categories": 15,
+    "partnership_targets": 15,
+    "price_optimization_categories": 15
+  },
+  "summary": {
+    "total_products": 90000,
+    "total_categories": 1746,
+    "total_sellers": 1410,
+    "total_brands": 3997,
+    "avg_discount_percentage": 50.35921855555556,
+    "total_discount_amount": 11779776.689999998,
+    "products_with_ratings": 7857,
+    "avg_rating": 4.735318823978618,
+    "generated_at": "2025-11-27T21:09:52.610236"
+  }
+}
